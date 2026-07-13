@@ -31,4 +31,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Depth-First Search
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
