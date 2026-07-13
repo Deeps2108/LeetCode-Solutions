@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -63,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
