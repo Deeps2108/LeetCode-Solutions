@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
