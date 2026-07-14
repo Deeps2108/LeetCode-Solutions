@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Breadth-First Search
 |  |
 | ------- |
