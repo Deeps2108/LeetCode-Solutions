@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
