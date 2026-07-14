@@ -92,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
 | ------- |
@@ -125,8 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
