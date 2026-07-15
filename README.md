@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
