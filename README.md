@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
