@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0401-binary-watch) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
