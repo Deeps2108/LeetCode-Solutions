@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0401-binary-watch) |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
