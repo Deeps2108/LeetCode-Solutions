@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
