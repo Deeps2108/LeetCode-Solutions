@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0739-daily-temperatures](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
