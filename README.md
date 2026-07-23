@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Merge Sort
