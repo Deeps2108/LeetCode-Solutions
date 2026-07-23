@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
