@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0051-n-queens) |
