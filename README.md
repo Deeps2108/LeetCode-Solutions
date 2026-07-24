@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0035-search-insert-position) |
