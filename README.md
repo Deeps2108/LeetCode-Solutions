@@ -170,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Deeps2108/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
